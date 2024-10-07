@@ -4,7 +4,7 @@
 This project explores the application of convolutional neural networks (CNNs) for the classification of tree species using the TreeSatAI Benchmark Archive dataset. The primary objective is not to build a highly accurate model but to understand how different techniques, such as residual links, class weighting, and data augmentation, influence model performance on complex, real-world data.
 
 ## Usage
-- **Review the Notebooks**: Explore the Jupyter Notebooks to understand the applied methodologies and view the cached results.
+**Review the Notebooks**: Explore the Jupyter Notebooks to understand the applied methodologies and view the cached results.
 
 ## Background
 The dataset used comprises over 50,000 images of publicly managed forests in Lower Saxony, Germany. These images are classified into three hierarchical levels: leaf types, forest management categories, and specific tree species. The project leverages this data to evaluate the effectiveness of various CNN architectures and data processing techniques.
